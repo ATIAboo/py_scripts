@@ -22,7 +22,7 @@ python脚本集，有原创的，也有站在巨人的肩膀上做的修改版�
 
 功能对应的参数，请点击后自行查看。
 
-根据需要自行修改.github/workflows/xxx-action.yml进行任务定制
+根据需要自行修改.github/workflows/xxx-action.yml进行任务定制.
 
 ---
 
