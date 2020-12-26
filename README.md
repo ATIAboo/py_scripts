@@ -46,7 +46,7 @@ python脚本集，有原创的，也有站在巨人的肩膀上做的修改版�
 ## 四、查看运行结果
 
 Actions > py_scripts > build  
-能看到如下图所示，表示成功  
+能看到如下图所示，表示成功 ! 
 ![](https://cdn.jsdelivr.net/gh/Arronlong/cdn/blogImg/20200707132455.png)
 ![](https://cdn.jsdelivr.net/gh/Arronlong/cdn@master/blogImg/20201207094927.png)
 ![](https://cdn.jsdelivr.net/gh/Arronlong/cdn@master/blogImg/20201214023622.png)
