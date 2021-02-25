@@ -29,6 +29,7 @@ python脚本集，有原创的，也有站在巨人的肩膀上做的修改版�
 # Github Actions说明 
 
 ## 一、Fork此仓库(已fork的无需再次fork)
+wer
 
 ![](http://tu.yaohuo.me/imgs/2020/06/f059fe73afb4ef5f.png)
 
